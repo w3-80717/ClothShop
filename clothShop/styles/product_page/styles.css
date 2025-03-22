@@ -506,7 +506,7 @@ nav {
 
 .product-text-container h1 {
     color: #333;
-    font-size: 19px;
+    font-size: 15px;
     font-weight: 500;
     margin-bottom: 4px;
 }
@@ -848,7 +848,7 @@ footer {
     }
 
     .product-text-container h1 {
-        font-size: 14px;
+        font-size: 15px;
         text-wrap: nowrap;
         text-overflow: ellipsis;
         overflow: hidden
